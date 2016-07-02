@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <TextView
+        android:text = "My NanoDegree Apps!"
+        style="@style/headingtheme"
+        />
+    <Button
+        android:text="POPULAR MOVIES"
+        style="@style/ButtonTheme"
+        />
+    <Button
+        android:text="STOCK HAWK"
+        style="@style/ButtonTheme"
+        />
+    <Button
+        android:text="BUILD IT BIGGER"
+        style="@style/ButtonTheme"
+        />
+    <Button
+        android:text="MAKE YOUR APP MATERIAL"
+        style="@style/ButtonTheme"
+        />
+    <Button
+        android:text="GO UBIQUITOUS"
+        style="@style/ButtonTheme"
+        />
+    <Button
+        android:text="CAPSTONE"
+        style="@style/ButtonTheme"
+        />
+
+</LinearLayout>
